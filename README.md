@@ -13,16 +13,6 @@ Serve como caderno digital + portfólio, reunindo anotações autorais, exercíc
 
 ---
 
-## 🗓️ Como Usar Este Repositório
-
-**Rotina semanal sugerida:**
-
-1. **Segunda-feira** — Leia a ementa da disciplina da semana (README.md da pasta).
-2. **Durante a semana** — Preencha `anotacoes.md` com resumos das aulas.
-3. **Quinta-feira** — Resolva ao menos um exercício em `exercicios/` e registre a solução.
-4. **Sexta-feira** — Atualize o checklist de estudo no README.md da disciplina.
-5. **Fim de série** — Escolha um projeto em [`projetos/`](./projetos/README.md) e documente em `assets/`.
-
 **Convenção de commits:**
 ```
 feat(disciplina): adiciona anotacoes sobre [tema]
@@ -34,7 +24,7 @@ docs(serie): atualiza checklist da 2a serie
 
 ## 📂 Índice
 
-### 1ª Série
+### 1ª Semestre
 | Disciplina | Pasta |
 |---|---|
 | Projeto de Software | [01-serie/Projeto-de-Software](./01-serie/Projeto-de-Software/) |
@@ -44,7 +34,7 @@ docs(serie): atualiza checklist da 2a serie
 | Fundamentos da Inteligência Artificial Aplicada | [01-serie/Fundamentos-da-Inteligencia-Artificial-Aplicada](./01-serie/Fundamentos-da-Inteligencia-Artificial-Aplicada/) |
 | Redes de Computadores | [01-serie/Redes-de-Computadores](./01-serie/Redes-de-Computadores/) |
 
-### 2ª Série
+### 2ª Semestre
 | Disciplina | Pasta |
 |---|---|
 | Engenharia de Software | [02-serie/Engenharia-de-Software](./02-serie/Engenharia-de-Software/) |
@@ -54,7 +44,7 @@ docs(serie): atualiza checklist da 2a serie
 | Análise e Modelagem de Sistemas | [02-serie/Analise-e-Modelagem-de-Sistemas](./02-serie/Analise-e-Modelagem-de-Sistemas/) |
 | Projeto Integrado Síntese - ADS | [02-serie/Projeto-Integrado-Sintese-ADS](./02-serie/Projeto-Integrado-Sintese-ADS/) |
 
-### 3ª Série
+### 3ª Semestre
 | Disciplina | Pasta |
 |---|---|
 | Análise Orientada a Objetos | [03-serie/Analise-Orientada-a-Objetos](./03-serie/Analise-Orientada-a-Objetos/) |
@@ -65,7 +55,7 @@ docs(serie): atualiza checklist da 2a serie
 | Sistemas Operacionais | [03-serie/Sistemas-Operacionais](./03-serie/Sistemas-Operacionais/) |
 | Projeto de Extensão I - ADS | [03-serie/Projeto-de-Extensao-I-ADS](./03-serie/Projeto-de-Extensao-I-ADS/) |
 
-### 4ª Série
+### 4ª Semestre
 | Disciplina | Pasta |
 |---|---|
 | Desenvolvimento em JavaScript | [04-serie/Desenvolvimento-em-JavaScript](./04-serie/Desenvolvimento-em-JavaScript/) |
@@ -75,7 +65,7 @@ docs(serie): atualiza checklist da 2a serie
 | Programação Web | [04-serie/Programacao-Web](./04-serie/Programacao-Web/) |
 | Projeto de Extensão II - ADS | [04-serie/Projeto-de-Extensao-II-ADS](./04-serie/Projeto-de-Extensao-II-ADS/) |
 
-### 5ª Série
+### 5ª Semestre
 | Disciplina | Pasta |
 |---|---|
 | Qualidade e Automação de Testes | [05-serie/Qualidade-e-Automacao-de-Testes](./05-serie/Qualidade-e-Automacao-de-Testes/) |
@@ -124,15 +114,6 @@ docs(readme): atualiza checklist da 3a serie
 refactor(codigo): reorganiza exemplos de POO
 ```
 
-Tipos mais usados aqui: `feat`, `fix`, `docs`, `refactor`, `chore`.
-
-### Como organizar anotações
-
-- Use o template [`templates/TEMPLATE_ANOTACOES.md`](./templates/TEMPLATE_ANOTACOES.md) como base.
-- Escreva com suas próprias palavras — não copie trechos de livros ou slides.
-- Inclua exemplos de código quando a disciplina permitir.
-- Atualize o arquivo à medida que aprender mais (não precisa estar perfeito).
-
 ### Como registrar dúvidas e pendências em issues
 
 1. Acesse a aba **Issues** do repositório.
@@ -153,9 +134,7 @@ estudos-ads/
 ├── 03-serie/          # Disciplinas da 3ª série
 ├── 04-serie/          # Disciplinas da 4ª série
 ├── 05-serie/          # Disciplinas da 5ª série
-├── projetos/          # Guia e registro de projetos
-├── assets/            # Imagens, diagramas e screenshots
-├── templates/         # Modelos reutilizáveis
+├── projetos/          # Registro de projetos
 └── README.md          # Este arquivo
 ```
 
