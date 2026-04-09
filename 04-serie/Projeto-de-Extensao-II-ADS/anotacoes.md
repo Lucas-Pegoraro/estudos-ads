@@ -1,6 +1,6 @@
 # 📝 Anotações — Projeto de Extensão II - Análise e Desenvolvimento de Sistemas
 
-> **Série:** 4ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
+> **Semestre:** 4ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
 
 ---
 

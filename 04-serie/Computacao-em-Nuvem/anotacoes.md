@@ -1,6 +1,6 @@
 # 📝 Anotações — Computação em Nuvem
 
-> **Série:** 4ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
+> **Semestre:** 4ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
 
 ---
 

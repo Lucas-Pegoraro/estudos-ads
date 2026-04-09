@@ -1,6 +1,6 @@
 # 💻 Código — Arquitetura e Organização de Computadores
 
-> **Série:** 1ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 1ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

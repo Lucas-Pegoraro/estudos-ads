@@ -1,4 +1,4 @@
-# 📚 3ª Série — ADS
+# 📚 3ª Semestre — ADS
 
 > [← Voltar para o início](../README.md)
 
@@ -20,6 +20,6 @@ Disciplinas aprofundadas em orientação a objetos, banco de dados, estruturas d
 
 ---
 
-## ✅ Checklist da Série
+## ✅ Checklist da Semestre
 
 Use o modelo em [templates/CHECKLIST_SERIE.md](../templates/CHECKLIST_SERIE.md).

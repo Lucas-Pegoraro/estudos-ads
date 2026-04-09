@@ -1,6 +1,6 @@
 # 📖 Algoritmos e Programação Estruturada
 
-> **Série:** 2ª | [← Voltar para a série](../README.md)
+> **Semestre:** 2ª | [← Voltar para a semestre](../README.md)
 
 ---
 

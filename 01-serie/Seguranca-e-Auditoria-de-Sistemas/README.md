@@ -1,6 +1,6 @@
 # 📖 Segurança e Auditoria de Sistemas
 
-> **Série:** 1ª | [← Voltar para a série](../README.md)
+> **Semestre:** 1ª | [← Voltar para a semestre](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # 📝 Anotações — Programação e Desenvolvimento de Banco de Dados
 
-> **Série:** 4ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
+> **Semestre:** 4ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
 
 ---
 

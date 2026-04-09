@@ -1,6 +1,6 @@
 # 📝 Anotações — Projeto Integrado Inovação - Análise e Desenvolvimento de Sistemas
 
-> **Série:** 5ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
+> **Semestre:** 5ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
 
 ---
 

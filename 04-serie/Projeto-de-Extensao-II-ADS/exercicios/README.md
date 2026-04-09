@@ -1,6 +1,6 @@
 # ��️ Exercícios — Projeto de Extensão II - Análise e Desenvolvimento de Sistemas
 
-> **Série:** 4ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 4ª | [← Voltar para a disciplina](../README.md)
 
 Use o template [TEMPLATE_EXERCICIOS.md](../../../templates/TEMPLATE_EXERCICIOS.md) para registrar cada solução.
 

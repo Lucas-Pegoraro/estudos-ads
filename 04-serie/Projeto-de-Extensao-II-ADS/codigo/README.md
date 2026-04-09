@@ -1,6 +1,6 @@
 # 💻 Código — Projeto de Extensão II - Análise e Desenvolvimento de Sistemas
 
-> **Série:** 4ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 4ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

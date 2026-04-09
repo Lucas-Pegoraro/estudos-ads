@@ -1,6 +1,6 @@
 # 📖 Relações Étnico-Raciais, Direitos Humanos e Educação Ambiental
 
-> **Série:** 5ª | [← Voltar para a série](../README.md)
+> **Semestre:** 5ª | [← Voltar para a semestre](../README.md)
 
 ---
 

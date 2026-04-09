@@ -1,12 +1,12 @@
 # 📖 Projeto de Extensão II - Análise e Desenvolvimento de Sistemas
 
-> **Série:** 4ª | [← Voltar para a série](../README.md)
+> **Semestre:** 4ª | [← Voltar para a semestre](../README.md)
 
 ---
 
 ## 📋 Ementa Resumida
 
-- Continuidade do projeto de extensão da 3ª série ou novo projeto
+- Continuidade do projeto de extensão da 3ª semestre ou novo projeto
 - Aplicação de tecnologias web e nuvem em contexto real
 - Gestão de projeto com stakeholders externos
 - Documentação técnica e relatório de impacto

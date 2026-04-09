@@ -1,6 +1,6 @@
 # 💻 Código — Linguagem de Programação
 
-> **Série:** 2ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 2ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

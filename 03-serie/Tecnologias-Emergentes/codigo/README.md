@@ -1,6 +1,6 @@
 # 💻 Código — Tecnologias Emergentes
 
-> **Série:** 3ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 3ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

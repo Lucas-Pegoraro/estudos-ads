@@ -1,6 +1,6 @@
 # 💻 Código — Desenvolvimento Responsivo
 
-> **Série:** 5ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 5ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

@@ -7,7 +7,7 @@ Serve como caderno digital + portfólio, reunindo anotações autorais, exercíc
 
 ## 🎯 Objetivo
 
-- Consolidar o aprendizado de cada disciplina por série.
+- Consolidar o aprendizado de cada disciplina por semestre.
 - Criar um portfólio técnico progressivo ao longo do curso.
 - Facilitar revisão e consulta rápida de conteúdos.
 
@@ -81,9 +81,9 @@ docs(serie): atualiza checklist da 2a serie
 
 Veja o guia completo em [`projetos/README.md`](./projetos/README.md).
 
-Ideias alinhadas às séries:
+Ideias alinhadas às semestres:
 
-| Série | Ideia de Projeto |
+| Semestre | Ideia de Projeto |
 |---|---|
 | 1ª | Mini-projeto de redes (monitoramento de ping/latência) |
 | 1ª | Protótipo de interface (wireframe + HTML/CSS básico) |
@@ -129,11 +129,11 @@ refactor(codigo): reorganiza exemplos de POO
 
 ```
 estudos-ads/
-├── 01-serie/          # Disciplinas da 1ª série
-├── 02-serie/          # Disciplinas da 2ª série
-├── 03-serie/          # Disciplinas da 3ª série
-├── 04-serie/          # Disciplinas da 4ª série
-├── 05-serie/          # Disciplinas da 5ª série
+├── 01-serie/          # Disciplinas da 1ª semestre
+├── 02-serie/          # Disciplinas da 2ª semestre
+├── 03-serie/          # Disciplinas da 3ª semestre
+├── 04-serie/          # Disciplinas da 4ª semestre
+├── 05-serie/          # Disciplinas da 5ª semestre
 ├── projetos/          # Registro de projetos
 └── README.md          # Este arquivo
 ```

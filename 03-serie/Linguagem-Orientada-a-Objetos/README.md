@@ -1,6 +1,6 @@
 # 📖 Linguagem Orientada a Objetos
 
-> **Série:** 3ª | [← Voltar para a série](../README.md)
+> **Semestre:** 3ª | [← Voltar para a semestre](../README.md)
 
 ---
 

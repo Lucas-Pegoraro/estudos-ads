@@ -1,6 +1,6 @@
 # ��️ Exercícios — Análise Orientada a Objetos
 
-> **Série:** 3ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 3ª | [← Voltar para a disciplina](../README.md)
 
 Use o template [TEMPLATE_EXERCICIOS.md](../../../templates/TEMPLATE_EXERCICIOS.md) para registrar cada solução.
 

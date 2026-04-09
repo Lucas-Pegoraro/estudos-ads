@@ -1,4 +1,4 @@
-# 📚 2ª Série — ADS
+# 📚 2ª Semestre — ADS
 
 > [← Voltar para o início](../README.md)
 
@@ -19,6 +19,6 @@ Disciplinas focadas em engenharia de software, algoritmos, lógica e modelagem d
 
 ---
 
-## ✅ Checklist da Série
+## ✅ Checklist da Semestre
 
 Use o modelo em [templates/CHECKLIST_SERIE.md](../templates/CHECKLIST_SERIE.md).

@@ -1,6 +1,6 @@
 # 💻 Código — Desenvolvimento em JavaScript
 
-> **Série:** 4ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 4ª | [← Voltar para a disciplina](../README.md)
 
 ---
 
