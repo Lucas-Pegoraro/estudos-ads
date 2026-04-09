@@ -1,6 +1,6 @@
 # 💻 Código — Algoritmos e Programação Estruturada
 
-> **Série:** 2ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 2ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

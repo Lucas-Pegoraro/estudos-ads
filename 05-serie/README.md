@@ -1,4 +1,4 @@
-# 📚 5ª Série — ADS
+# 📚 5ª Semestre — ADS
 
 > [← Voltar para o início](../README.md)
 
@@ -19,6 +19,6 @@ Disciplinas finais: qualidade, testes, mobile, responsivo, governança e projeto
 
 ---
 
-## ✅ Checklist da Série
+## ✅ Checklist da Semestre
 
 Use o modelo em [templates/CHECKLIST_SERIE.md](../templates/CHECKLIST_SERIE.md).

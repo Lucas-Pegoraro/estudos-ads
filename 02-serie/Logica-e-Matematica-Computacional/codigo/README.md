@@ -1,6 +1,6 @@
 # 💻 Código — Lógica e Matemática Computacional
 
-> **Série:** 2ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 2ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

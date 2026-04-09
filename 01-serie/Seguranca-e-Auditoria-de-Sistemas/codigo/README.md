@@ -1,6 +1,6 @@
 # 💻 Código — Segurança e Auditoria de Sistemas
 
-> **Série:** 1ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 1ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

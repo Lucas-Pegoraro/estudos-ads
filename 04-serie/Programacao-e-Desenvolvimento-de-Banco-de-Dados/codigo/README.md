@@ -1,6 +1,6 @@
 # 💻 Código — Programação e Desenvolvimento de Banco de Dados
 
-> **Série:** 4ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 4ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

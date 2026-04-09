@@ -1,6 +1,6 @@
 # 📝 Anotações — Interface e Usabilidade
 
-> **Série:** 1ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
+> **Semestre:** 1ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
 
 ---
 

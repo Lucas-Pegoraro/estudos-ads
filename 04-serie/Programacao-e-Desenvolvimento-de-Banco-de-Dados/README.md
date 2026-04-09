@@ -1,6 +1,6 @@
 # 📖 Programação e Desenvolvimento de Banco de Dados
 
-> **Série:** 4ª | [← Voltar para a série](../README.md)
+> **Semestre:** 4ª | [← Voltar para a semestre](../README.md)
 
 ---
 

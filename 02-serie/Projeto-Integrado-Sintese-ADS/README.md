@@ -1,12 +1,12 @@
 # 📖 Projeto Integrado Síntese - ADS
 
-> **Série:** 2ª | [← Voltar para a série](../README.md)
+> **Semestre:** 2ª | [← Voltar para a semestre](../README.md)
 
 ---
 
 ## 📋 Ementa Resumida
 
-- Integração dos conhecimentos das disciplinas da 1ª e 2ª série
+- Integração dos conhecimentos das disciplinas da 1ª e 2ª semestre
 - Desenvolvimento de um projeto prático em equipe
 - Aplicação de metodologias ágeis no projeto
 - Apresentação e documentação do projeto

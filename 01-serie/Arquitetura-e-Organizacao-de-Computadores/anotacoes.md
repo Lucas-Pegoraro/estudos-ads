@@ -1,6 +1,6 @@
 # 📝 Anotações — Arquitetura e Organização de Computadores
 
-> **Série:** 1ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
+> **Semestre:** 1ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
 
 ---
 

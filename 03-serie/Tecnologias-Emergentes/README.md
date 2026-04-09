@@ -1,6 +1,6 @@
 # 📖 Tecnologias Emergentes
 
-> **Série:** 3ª | [← Voltar para a série](../README.md)
+> **Semestre:** 3ª | [← Voltar para a semestre](../README.md)
 
 ---
 

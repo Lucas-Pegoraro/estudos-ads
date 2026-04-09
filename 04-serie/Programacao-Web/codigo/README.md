@@ -1,6 +1,6 @@
 # 💻 Código — Programação Web
 
-> **Série:** 4ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 4ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

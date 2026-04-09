@@ -1,4 +1,4 @@
-# 📚 1ª Série — ADS
+# 📚 1ª Semestre — ADS
 
 > [← Voltar para o início](../README.md)
 
@@ -19,6 +19,6 @@ Disciplinas introdutórias que estabelecem os fundamentos de hardware, software,
 
 ---
 
-## ✅ Checklist da Série
+## ✅ Checklist da Semestre
 
 Use o modelo em [templates/CHECKLIST_SERIE.md](../templates/CHECKLIST_SERIE.md).

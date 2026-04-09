@@ -1,6 +1,6 @@
 # 💻 Código — Projeto de Extensão I - Análise e Desenvolvimento de Sistemas
 
-> **Série:** 3ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 3ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

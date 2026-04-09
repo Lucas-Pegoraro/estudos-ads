@@ -1,6 +1,6 @@
 # 💻 Código — Engenharia de Software
 
-> **Série:** 2ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 2ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

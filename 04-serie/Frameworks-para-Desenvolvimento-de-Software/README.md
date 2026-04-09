@@ -1,6 +1,6 @@
 # 📖 Frameworks para Desenvolvimento de Software
 
-> **Série:** 4ª | [← Voltar para a série](../README.md)
+> **Semestre:** 4ª | [← Voltar para a semestre](../README.md)
 
 ---
 

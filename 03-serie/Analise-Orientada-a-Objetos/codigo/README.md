@@ -1,6 +1,6 @@
 # 💻 Código — Análise Orientada a Objetos
 
-> **Série:** 3ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 3ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

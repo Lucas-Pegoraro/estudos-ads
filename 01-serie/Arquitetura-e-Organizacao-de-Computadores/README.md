@@ -1,6 +1,6 @@
 # 📖 Arquitetura e Organização de Computadores
 
-> **Série:** 1ª | [← Voltar para a série](../README.md)
+> **Semestre:** 1ª | [← Voltar para a semestre](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # 💻 Código — Relações Étnico-Raciais, Direitos Humanos e Educação Ambiental
 
-> **Série:** 5ª | [← Voltar para a disciplina](../README.md)
+> **Semestre:** 5ª | [← Voltar para a disciplina](../README.md)
 
 ---
 

@@ -1,4 +1,4 @@
-# 📚 4ª Série — ADS
+# 📚 4ª Semestre — ADS
 
 > [← Voltar para o início](../README.md)
 
@@ -19,6 +19,6 @@ Disciplinas voltadas ao desenvolvimento web moderno, JavaScript, frameworks, nuv
 
 ---
 
-## ✅ Checklist da Série
+## ✅ Checklist da Semestre
 
 Use o modelo em [templates/CHECKLIST_SERIE.md](../templates/CHECKLIST_SERIE.md).

@@ -1,6 +1,6 @@
 # 📖 Projeto de Extensão I - Análise e Desenvolvimento de Sistemas
 
-> **Série:** 3ª | [← Voltar para a série](../README.md)
+> **Semestre:** 3ª | [← Voltar para a semestre](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # 📝 Anotações — Análise e Modelagem de Sistemas
 
-> **Série:** 2ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
+> **Semestre:** 2ª | Baseado em: [TEMPLATE_ANOTACOES](../../templates/TEMPLATE_ANOTACOES.md)
 
 ---
 

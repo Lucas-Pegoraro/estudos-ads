@@ -1,6 +1,6 @@
 # 📖 Engenharia de Software
 
-> **Série:** 2ª | [← Voltar para a série](../README.md)
+> **Semestre:** 2ª | [← Voltar para a semestre](../README.md)
 
 ---
 
